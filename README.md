@@ -1,1 +1,1 @@
-# exampleRepo
+# exampleRepository
